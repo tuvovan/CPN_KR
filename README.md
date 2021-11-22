@@ -29,7 +29,7 @@ python train.py
 ```
 
 ## Test
-Download the checkpoint here and unzip.
+Download the checkpoint [here](https://drive.google.com/file/d/1RpR1dBJWptwjixI3xtwZ-Q4yAJbkhRLs/view?usp=sharing) and unzip.
 
 ```
 python test.py
