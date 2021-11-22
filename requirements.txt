@@ -1,0 +1,5 @@
+tensorflow-gpu==2.1.0
+numpy
+pandas
+imgaug
+pillow
